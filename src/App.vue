@@ -9,7 +9,7 @@
     <span class="rotate">On Sale</span>
     -->
 
-  <!-- 5: To further draw attention to the electronics, add the class .featured to the product name (the <h3>), IF its category is electronics (conditional class).
+  <!-- 5: To further draw attention to the electronics, add the class .featured to the product name (the <h3>), IF its category is electronics (conditional class). Need help? Read here: https://vuejs.org/guide/essentials/class-and-style.html#class-and-style-bindings.
     
       If you managed to implement 4 & 5, your products in the category electronics should look something like this: https://mmd.ucn.dk/lecturer/mfw/assets/img/vue-binding-example2.png  
     -->
@@ -20,7 +20,7 @@
   <!-- v-model -->
   <!--  -->
 
-  <!-- 7: We need to setup our newsletter, bind the input fields to state -->
+  <!-- 7: We need to setup our newsletter, bind the input fields to state. If needed read up on v-model here: https://vuejs.org/guide/essentials/forms.html -->
 
   <!-- 8: When the user has entered a username and an email (he has submitted the form), alert the user something like this: https://mmd.ucn.dk/lecturer/mfw/assets/img/vue-binding-example1.png also add the user to the users array in reactive data -->
 
